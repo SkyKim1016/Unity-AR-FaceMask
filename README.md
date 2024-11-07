@@ -1,6 +1,6 @@
 # AR_FaceMask
 
-Studied AR face filter development using Unity and C# as part of Champlain College's VR/AR Specialist program
+Studied AR face filter within face tracking development using Unity and C# as part of Champlain College's VR/AR Specialist program
 
 ![AR Face Filter Unity 2](https://github.com/user-attachments/assets/63e53308-f71f-4fb9-98a6-b4e1d82ca9c0)
 
